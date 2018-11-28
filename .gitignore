@@ -1,0 +1,8 @@
+bin/Debug/
+bin/Release/
+*.sdf
+.vs/
+*.db
+*.opendb
+obj/
+*.opensdf

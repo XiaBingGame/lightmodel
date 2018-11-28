@@ -1,0 +1,6 @@
+基本光照模型实现
+
+已经实现光照模型
+* Lambert
+* Phong
+* Blinn-Phong
